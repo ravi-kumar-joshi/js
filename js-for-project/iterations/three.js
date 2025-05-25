@@ -28,9 +28,18 @@ map.set('india','ameriaca')
 map.set('in','usa')
 // console.log(map);
 
-for (const [key ,value] of map) {
-    console.log(key, ':-',value);
+// for (const [key ,value] of map) {
+//     console.log(key, ':-',value);
     
+// }
+
+const myObject = {
+    game1 : 'NFS',
+    game2 : 'Spiderman'
 }
 
-const myObject = {}
+// for (const [key,value] of myObject) {
+//     console.log(key, ':-',value);
+// }
+
+
